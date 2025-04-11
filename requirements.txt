@@ -1,0 +1,7 @@
+plaintext
+python-telegram-bot
+pillow
+pytesseract
+gspread
+oauth2client
+requests
