@@ -1,5 +1,5 @@
 plaintext
-python-telegram-bot==20.0a3
+python-telegram-bot
 pillow
 pytesseract
 gspread
